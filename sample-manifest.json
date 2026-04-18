@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f8739c25-7211-4576-8c83-076069716f54",
+  "export_job_id": "4ad3de39-3f0e-49c7-8b7b-39f933fdf977",
   "id_short": 370854,
-  "published_at": "2026-04-11T19:39:20Z",
+  "published_at": "2026-04-18T07:58:05Z",
   "repo_name": "white-space-finder-in-oregon-us-sample-370854",
   "sample_asset_name": "beamstation_370854_food_and_drink-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/370854/beamstation_370854_food_and_drink-us-or_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "968cccc65904a616baf33003e826ce423836d4109f421ca89d075d9b3f20f42d",
-  "sample_size_bytes": 23300,
-  "total_records": 25
+  "sample_records": 1,
+  "sample_sha256": "207dc4a1a70c18764548ec32f486ce11c213a8585948f2b6b0ea27df6b5a75c2",
+  "sample_size_bytes": 20184,
+  "total_records": 18
 }
